@@ -1,4 +1,4 @@
-const city = ['Belgrade', 'Tokyo', 'Moscow', 'Prague', 'London'];
+const city = ['Belgrade', 'Tokyo', 'Moscow', 'Prague', 'Oslo', 'Paris', 'Novosibirsk', 'Cairo', 'Washington DC'];
 const activity = ['climb a mountain', 'visit a museum', 'try out a new food', 'meet someone new'];
 const season = ['autumn', 'winter', 'spring', 'summer'];
 
