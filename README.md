@@ -9,7 +9,7 @@ This program generates a random task or "mixed message" for you to complete duri
 
 ## Installation:
 1. Clone the repository.
-2. Install dependencies (if any).
+2. Install dependencies(Node js).
 3. Run the script to get a random task.
 
 ## Usage:
